@@ -1,0 +1,11 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "name": "tester",
+    "phone": "0725282",
+    "email": "abs@ggg.com",
+    "username": "tester98",
+    "password": "tester",
+    "address": "New Delhi"
+}
